@@ -1,6 +1,4 @@
 # Products App
-A Starter Kit to get started on a UI Project with Reactjs, Redux and Sass.
-
 
 ## Step 1
 Run ```npm install ``` to install all the dependencies.
